@@ -1,0 +1,89 @@
+{
+    "setting": {
+        "dataPathExcel": "./config/data.xlsx",
+        "productDataExcel": "./config/productdataexcel.json",
+        "productData": "./config/products.json",
+        "productDataDetail": "./config/product.json"
+    },
+    "oc_option_description": {
+        "color": {
+            "name": "Color", 
+            "id":""
+        },
+        "size": {
+            "name": "Size", 
+            "id":""
+        },
+        "decoration": {
+            "name": "Decoration", 
+            "id":""
+        }
+    },
+    "oc_product": {
+        "model": "IP037",
+        "sku": "",
+        "upc": "",
+        "ean": "",
+        "jan": "",
+        "isbn": "",
+        "mpn": "",
+        "location": "",
+        "quantity": "0",
+        "stock_status_id": "7",
+        "image": "catalog/products/IP037/gray_black.png",
+        "manufacturer_id": "0",
+        "shipping": "1",
+        "price": 21,
+        "points": 0,
+        "tax_class_id": "11",
+        "date_available": "2022-07-01",
+        "weight": "0.00250000",
+        "weight_class_id": "5",
+        "length": "0.00000000",
+        "width": "0.00000000",
+        "height": "0.00000000",
+        "length_class_id": "3",
+        "subtract": "0",
+        "minimum": "1",
+        "sort_order": "1",
+        "status": "0",
+        "viewed": "14",
+        "date_added": "2022-10-17 11:22:56",
+        "date_modified": "2022-10-25 12:29:43"
+    },
+    "oc_product_description": {
+        "product_id": "1351",
+        "language_id": "1",
+        "name": "Alpine Fleece Micro Mink Sherpa Blanket",
+        "description": "",
+        "tag": "",
+        "meta_title": "Alpine Fleece Micro Mink Sherpa Blanket",
+        "meta_description": "",
+        "meta_keyword": ""
+    },
+    "oc_product_option": {
+        "product_id": "1351",
+        "option_id": "13",
+        "value": "",
+        "required": "1"
+    },
+    "oc_product_option_value": {
+
+        "product_option_id": "3279",
+        "product_id": "1351",
+        "option_id": "16",
+        "option_value_id": "215",
+        "quantity": "9999",
+        "subtract": "0",
+        "price": "0.0000",
+        "price_prefix": "+",
+        "points": "0",
+        "points_prefix": "+",
+        "weight": "0.00000000",
+        "weight_prefix": "+"
+    },
+    "oc_product_to_category": {
+        "product_id": "1351",
+        "category_id": "16"
+    }
+}
